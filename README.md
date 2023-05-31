@@ -1,3 +1,3 @@
 # Neovim configuration
 
-Always a WIP.
+forked from adibhanna conf
